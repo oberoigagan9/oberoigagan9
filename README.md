@@ -3,7 +3,7 @@
 </p>
 ### Hi there! 👋
 
-My name is Gagandeep Singh, a passionate learner, and enthusiast in the fields of cybersecurity learning more about Linux, SQL, and Python. Here's a bit about me:
+My name is Gagandeep Singh, a passionate learner, and enthusiast in the field of cybersecurity, learning more about Linux, SQL, and Python. Here's a bit about me:
 - 🔭 I’m currently working on strengthening my skills in cybersecurity, exploring the intricacies of Linux, mastering SQL, and diving deep into Python programming.
 - 🌱 I’m always eager to learn and open to new challenges in the world of technology.
 - 👯 I’m looking to collaborate on exciting projects related to cybersecurity, open-source initiatives, or Python development.
