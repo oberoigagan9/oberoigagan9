@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/oberoigagan9/oberoigagan9/assets/47354967/8f244305-912c-41ce-aa11-dc8845ac0dc3" alt="my banner"></a>
+  <img src="https://github.com/oberoigagan9/assets/47354967/8f244305-912c-41ce-aa11-dc8845ac0dc3" alt="my banner"></a>
 </p>
 ### Hi there! 👋
 
@@ -9,7 +9,7 @@ My name is Gagandeep Singh, a passionate learner, and enthusiast in the field of
 - 👯 I’m looking to collaborate on exciting projects related to cybersecurity, open-source initiatives, or Python development.
 - 💬 Ask me about anything related to cybersecurity, Linux, SQL, or Python, and I'll do my best to help!
 - 📫 You can reach me via -
-[![LinkedIn](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/gagandeep-singh-53757216a)
+[![LinkedIn](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/oberoigagan)
 &nbsp;
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/oberoigagan9)
 - 😄 Pronouns: He/Him.
