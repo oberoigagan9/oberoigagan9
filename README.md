@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/oberoigagan9/assets/47354967/8f244305-912c-41ce-aa11-dc8845ac0dc3" alt="my banner"></a>
+  <img src="https://github.com/oberoigagan9/oberoigagan9/assets/47354967/8f244305-912c-41ce-aa11-dc8845ac0dc3" alt="my banner"></a>
 </p>
 ### Hi there! 👋
 
