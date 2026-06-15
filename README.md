@@ -1,30 +1,37 @@
 # 👋 Hi, I'm Gagandeep Singh
 
-## 💼 Aspiring QA Tester | Manual Testing Enthusiast
+## 💼 Manual QA Tester | Functional Testing | Bug Reporting | Freelance Tester
 
-I am focused on building my skills in **Manual Software Testing and Quality Assurance**.  
-My goal is to understand how real-world applications behave, identify issues, and improve software quality through structured testing.
+I am a Manual QA Tester focused on helping developers and small teams improve their software quality through structured testing, bug reporting, and real-world application validation.
 
----
-
-## 🚀 About Me
-
-- 🔭 Currently learning Manual QA Testing and Software Testing fundamentals
-- 🧪 Interested in functional testing, test case design, and bug reporting
-- 🌱 Exploring real-world application behavior through hands-on testing practice
-- 👯 Open to collaboration on QA/testing projects
-- 📫 Connect with me via LinkedIn or GitHub
+I work on identifying functional issues, usability problems, and edge cases in web and desktop applications.
 
 ---
 
-## 🧪 Projects
+## 🚀 What I Do
 
-### CCleaner – OneDrive Cache Cleaning Validation (QA Project)
+- Manual Functional Testing of applications
+- Bug identification and reporting
+- Test case execution based on real user workflows
+- UI/UX and usability feedback
+- Windows application testing
 
-- Performed functional testing of Custom Clean and Health Check features
-- Verified OneDrive cache/system file cleanup behavior on Windows 11
-- Designed structured test cases and execution reports
-- Validated system behavior using real application workflows
+---
+
+## 🧪 Featured QA Project
+
+### CCleaner – OneDrive Cache Cleaning Validation
+
+**Scope:**
+Testing CCleaner’s Custom Clean and Health Check features on Windows 11.
+
+**Work Performed:**
+- Verified OneDrive cache/system file cleanup behavior
+- Executed structured test cases for cleaning workflows
+- Validated application behavior against expected results
+- Documented results in clear QA format
+
+**Type:** Functional Testing (Desktop Application)
 
 ---
 
@@ -35,7 +42,18 @@ My goal is to understand how real-world applications behave, identify issues, an
 - Test Case Design
 - Bug Reporting
 - Exploratory Testing
+- UI/UX Testing
 - Windows Application Testing
+
+---
+
+## 💼 Availability
+
+Open to:
+- Freelance QA testing projects
+- Website and app testing
+- Bug reporting tasks
+- Usability feedback assignments
 
 ---
 
@@ -46,10 +64,4 @@ My goal is to understand how real-world applications behave, identify issues, an
 
 ---
 
-## ⚡ Fun Fact
-
-I enjoy understanding how software behaves under different conditions and finding edge cases that affect user experience.
-
----
-
-⭐ Always learning. Always improving.
+⭐ Focused on delivering clear, structured, and actionable QA feedback for better software quality.
