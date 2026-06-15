@@ -41,7 +41,8 @@ My goal is to understand how real-world applications behave, identify issues, an
 
 ## 🌐 Connect With Me
 
-- LinkedIn: (add your real link here)
+- LinkedIn: LinkedIn
+https://www.linkedin.com/in/oberoigagan
 - GitHub: https://github.com/oberoigagan9
 
 ---
