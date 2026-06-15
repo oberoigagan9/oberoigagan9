@@ -1,32 +1,55 @@
-<p align="center">
-  <img src="https://github.com/oberoigagan9/oberoigagan9/assets/47354967/8f244305-912c-41ce-aa11-dc8845ac0dc3" alt="my banner"></a>
-</p>
-### Hi there! 👋
+# 👋 Hi, I'm Gagandeep Singh
 
-My name is Gagandeep Singh, a passionate learner, and enthusiast in the field of cybersecurity, learning more about Linux, SQL, and Python. Here's a bit about me:
-- 🔭 I’m currently working on strengthening my skills in cybersecurity, exploring the intricacies of Linux, mastering SQL, and diving deep into Python programming.
-- 🌱 I’m always eager to learn and open to new challenges in the world of technology.
-- 👯 I’m looking to collaborate on exciting projects related to cybersecurity, open-source initiatives, or Python development.
-- 💬 Ask me about anything related to cybersecurity, Linux, SQL, or Python, and I'll do my best to help!
-- 📫 You can reach me via -
-[![LinkedIn](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/oberoigagan)
-&nbsp;
-[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/oberoigagan9)
-- 😄 Pronouns: He/Him.
-&nbsp;
-- ⚡ Fun fact: Anime and manga culture is so ingrained in Japan that there's a tradition called "Seichi Junrei" (聖地巡礼), which translates to "holy land pilgrimage." Fans visit real-life locations featured in their favorite anime and manga to pay homage and experience the world of their beloved series firsthand. It's a unique blend of fiction and reality, much like the cybersecurity and tech world, where we bridge the gap between digital and physical security. 🌸🌍✨
+## 💼 Aspiring QA Tester | Manual Testing Enthusiast
 
-Let's connect and make the digital world safer and more innovative together! 💻🌐🐍
+I am focused on building my skills in **Manual Software Testing and Quality Assurance**.  
+My goal is to understand how real-world applications behave, identify issues, and improve software quality through structured testing.
 
-## 💼 Technical Skills and Tools
+---
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+## 🚀 About Me
 
-## 📈 GitHub Stats 
+- 🔭 Currently learning Manual QA Testing and Software Testing fundamentals
+- 🧪 Interested in functional testing, test case design, and bug reporting
+- 🌱 Exploring real-world application behavior through hands-on testing practice
+- 👯 Open to collaboration on QA/testing projects
+- 📫 Connect with me via LinkedIn or GitHub
 
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=oberoigagan9)](https://github.com/oberoigagan9)
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oberoigagan9&layout=compact)](https://github.com/oberoigagan9)
+## 🧪 Projects
 
+### CCleaner – OneDrive Cache Cleaning Validation (QA Project)
+
+- Performed functional testing of Custom Clean and Health Check features
+- Verified OneDrive cache/system file cleanup behavior on Windows 11
+- Designed structured test cases and execution reports
+- Validated system behavior using real application workflows
+
+---
+
+## 🧠 Skills
+
+- Manual Testing
+- Functional Testing
+- Test Case Design
+- Bug Reporting
+- Exploratory Testing
+- Windows Application Testing
+
+---
+
+## 🌐 Connect With Me
+
+- LinkedIn: (add your real link here)
+- GitHub: https://github.com/oberoigagan9
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy understanding how software behaves under different conditions and finding edge cases that affect user experience.
+
+---
+
+⭐ Always learning. Always improving.
